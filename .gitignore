@@ -1,0 +1,29 @@
+# Data files (too large for GitHub)
+data/
+*.tar.gz
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.log~
+nohup.out
+nas_progress.log
+
+# But keep outputs folder for assignment submission
+!outputs/
